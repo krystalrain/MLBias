@@ -35,8 +35,7 @@ Below, we have summarized the contributions and salient points of various framew
 | **blah**       | <img src="http://latex.codecogs.com/gif.latex?FPR_g%20%3D%20%5Cfrac%7BFP_g%7D%7BLN_g%7D%20%3D%20%5Ctext%7BPr%28%7D%5Cwidehat%7BY%7D%3D1%5C%3B%7C%5C%3BY%3D0%2CA%3Da_i%29"> | The fraction of false positives of a group within the labeled negative of the group.                          | 
 | **blah**       | <img src="http://latex.codecogs.com/gif.latex?FNR_g%20%3D%20%5Cfrac%7BFN_g%7D%7BLP_g%7D%20%3D%20%5Ctext%7BPr%28%7D%5Cwidehat%7BY%7D%3D0%5C%3B%7C%5C%3BY%3D1%2C%20A%3Da_i%29">  | The fraction of false negatives of a group within the labeled positives of the group.                         | 
 
-blah <img src="http://latex.codecogs.com/gif.latex?j"> for a given frmaework <img src="http://latex.codecogs.com/gif.latex?a_i"> is calculated as follows:
-<img src="http://latex.codecogs.com/gif.latex?disparity_%7Bj%2C%5C%3Ba_%7Bi%7D%7D%20%3D%20%5Cfrac%7Bmetric_%7Bj%2C%5C%3Ba_%7Bi%7D%7D%7D%7Bmetric_%7Bj%2C%5C%3Ba_%7Breference%5C%3Bgroup%7D%7D%7D">
+
 
 
 
